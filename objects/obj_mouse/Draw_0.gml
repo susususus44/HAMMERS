@@ -1,0 +1,7 @@
+var str = string(get_timer() / 600000) + "     " + string(global.count)
+draw_sprite_ext(sprite_index, 0, x, y, image_xscale, image_yscale, 48 * image_xscale, c_black, 0.1)
+draw_self()
+draw_set_color(c_red)
+draw_rectangle(room_width - string_width(str), room_height - string_height(str), room_width, room_height, false)
+draw_set_color(c_black)
+draw_text(room_width - string_width(str), room_height - string_height(str), str)
