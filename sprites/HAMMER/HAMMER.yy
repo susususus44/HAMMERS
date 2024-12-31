@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"HAMMER",
   "bboxMode":1,
-  "bbox_bottom":313,
+  "bbox_bottom":459,
   "bbox_left":0,
-  "bbox_right":299,
+  "bbox_right":439,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4b0d91ff-9a94-4f4f-916f-504d09f0082b","name":"4b0d91ff-9a94-4f4f-916f-504d09f0082b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"620df655-0bae-4f74-8c52-560ae345e6c0","name":"620df655-0bae-4f74-8c52-560ae345e6c0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":314,
+  "height":460,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"6e0bd950-f6f0-4d31-b5ad-bbf6b0b7bc45","blendMode":0,"displayName":"default","isLocked":false,"name":"6e0bd950-f6f0-4d31-b5ad-bbf6b0b7bc45","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"08a80a4c-4cc1-4554-9751-9899fdbb0689","blendMode":0,"displayName":"default","isLocked":false,"name":"08a80a4c-4cc1-4554-9751-9899fdbb0689","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"HAMMER",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4b0d91ff-9a94-4f4f-916f-504d09f0082b","path":"sprites/HAMMER/HAMMER.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9fa5dbdf-da19-44cb-a344-33551c16efac","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"620df655-0bae-4f74-8c52-560ae345e6c0","path":"sprites/HAMMER/HAMMER.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"64e6920f-4bc8-4007-9b99-91596ac50551","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":300,
+  "width":440,
 }
