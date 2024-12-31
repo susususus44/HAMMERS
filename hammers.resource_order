@@ -17,6 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"gamepad_force_focus","order":1,"path":"extensions/gamepad_force_focus/gamepad_force_focus.yy",},
+    {"name":"window_frame","order":2,"path":"extensions/window_frame/window_frame.yy",},
+    {"name":"freezefix","order":11,"path":"objects/freezefix/freezefix.yy",},
     {"name":"MESSAGE","order":8,"path":"objects/MESSAGE/MESSAGE.yy",},
     {"name":"obj_BLOOD","order":6,"path":"objects/obj_BLOOD/obj_BLOOD.yy",},
     {"name":"obj_cam","order":2,"path":"objects/obj_cam/obj_cam.yy",},
