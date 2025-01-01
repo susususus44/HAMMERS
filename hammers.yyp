@@ -40,6 +40,7 @@
     {"id":{"name":"gamepad_force_focus","path":"extensions/gamepad_force_focus/gamepad_force_focus.yy",},},
     {"id":{"name":"window_frame","path":"extensions/window_frame/window_frame.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"RULES","path":"notes/RULES/RULES.yy",},},
     {"id":{"name":"freezefix","path":"objects/freezefix/freezefix.yy",},},
     {"id":{"name":"MESSAGE","path":"objects/MESSAGE/MESSAGE.yy",},},
     {"id":{"name":"obj_BLOOD","path":"objects/obj_BLOOD/obj_BLOOD.yy",},},

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"RULES",
+  "name":"RULES",
+  "parent":{
+    "name":"hammers",
+    "path":"hammers.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
