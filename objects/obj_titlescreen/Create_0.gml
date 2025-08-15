@@ -1,3 +1,4 @@
+audio_play_sound(mu_windyoutintheseclouds,1,true)
 fadeout = 1
 curron=0
 lettershowuptime=2//the hi thing doesnt show up i think. unless someone magically adds russian text to smashfont

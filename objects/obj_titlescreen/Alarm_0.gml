@@ -1,4 +1,6 @@
 //letters
-if (lettershown<lettershownabout)
+if (lettershown<lettershownabout) {
     lettershown++
-alarm[0]=lettershowuptime
+    alarm[0]=lettershowuptime
+    audio_play_sound(su_type,1,false)
+}

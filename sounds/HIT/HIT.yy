@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.384,
+  "duration":0.35,
   "name":"HIT",
   "parent":{
     "name":"Sounds",
