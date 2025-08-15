@@ -19,7 +19,6 @@
   "ResourceOrderSettings":[
     {"name":"gamepad_force_focus","order":1,"path":"extensions/gamepad_force_focus/gamepad_force_focus.yy",},
     {"name":"window_frame","order":2,"path":"extensions/window_frame/window_frame.yy",},
-    {"name":"RULES","order":19,"path":"notes/RULES/RULES.yy",},
     {"name":"freezefix","order":11,"path":"objects/freezefix/freezefix.yy",},
     {"name":"MESSAGE","order":8,"path":"objects/MESSAGE/MESSAGE.yy",},
     {"name":"obj_BLOOD","order":6,"path":"objects/obj_BLOOD/obj_BLOOD.yy",},
@@ -42,7 +41,6 @@
     {"name":"MELODY","order":3,"path":"sounds/MELODY/MELODY.yy",},
     {"name":"OVERWORLD","order":2,"path":"sounds/OVERWORLD/OVERWORLD.yy",},
     {"name":"ANOTHERHUMAN","order":7,"path":"sprites/ANOTHERHUMAN/ANOTHERHUMAN.yy",},
-    {"name":"BLOOD","order":4,"path":"sprites/BLOOD/BLOOD.yy",},
     {"name":"BOXOFHELL","order":3,"path":"sprites/BOXOFHELL/BOXOFHELL.yy",},
     {"name":"CHILD","order":8,"path":"sprites/CHILD/CHILD.yy",},
     {"name":"HUMAN","order":1,"path":"sprites/HUMAN/HUMAN.yy",},
@@ -50,6 +48,7 @@
     {"name":"Policeman","order":5,"path":"sprites/Policeman/Policeman.yy",},
     {"name":"reactangle","order":10,"path":"sprites/reactangle/reactangle.yy",},
     {"name":"SPAWN","order":2,"path":"sprites/SPAWN/SPAWN.yy",},
+    {"name":"spr_bloodsplatter","order":11,"path":"sprites/spr_bloodsplatter/spr_bloodsplatter.yy",},
     {"name":"Vadimos","order":9,"path":"sprites/Vadimos/Vadimos.yy",},
   ],
 }

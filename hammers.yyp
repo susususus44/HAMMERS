@@ -33,7 +33,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"hammers",
   "resources":[
@@ -41,7 +41,6 @@
     {"id":{"name":"gamepad_force_focus","path":"extensions/gamepad_force_focus/gamepad_force_focus.yy",},},
     {"id":{"name":"window_frame","path":"extensions/window_frame/window_frame.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
-    {"id":{"name":"RULES","path":"notes/RULES/RULES.yy",},},
     {"id":{"name":"freezefix","path":"objects/freezefix/freezefix.yy",},},
     {"id":{"name":"MESSAGE","path":"objects/MESSAGE/MESSAGE.yy",},},
     {"id":{"name":"obj_BLOOD","path":"objects/obj_BLOOD/obj_BLOOD.yy",},},
@@ -69,7 +68,6 @@
     {"id":{"name":"OVERWORLD","path":"sounds/OVERWORLD/OVERWORLD.yy",},},
     {"id":{"name":"SCREAM","path":"sounds/SCREAM/SCREAM.yy",},},
     {"id":{"name":"ANOTHERHUMAN","path":"sprites/ANOTHERHUMAN/ANOTHERHUMAN.yy",},},
-    {"id":{"name":"BLOOD","path":"sprites/BLOOD/BLOOD.yy",},},
     {"id":{"name":"BOXOFHELL","path":"sprites/BOXOFHELL/BOXOFHELL.yy",},},
     {"id":{"name":"CHILD","path":"sprites/CHILD/CHILD.yy",},},
     {"id":{"name":"HAMMER","path":"sprites/HAMMER/HAMMER.yy",},},
@@ -78,6 +76,7 @@
     {"id":{"name":"Policeman","path":"sprites/Policeman/Policeman.yy",},},
     {"id":{"name":"reactangle","path":"sprites/reactangle/reactangle.yy",},},
     {"id":{"name":"SPAWN","path":"sprites/SPAWN/SPAWN.yy",},},
+    {"id":{"name":"spr_bloodsplatter","path":"sprites/spr_bloodsplatter/spr_bloodsplatter.yy",},},
     {"id":{"name":"Vadimos","path":"sprites/Vadimos/Vadimos.yy",},},
   ],
   "resourceType":"GMProject",
