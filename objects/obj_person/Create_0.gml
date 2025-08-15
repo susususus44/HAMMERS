@@ -1,2 +1,2 @@
 state = 0
-sprite_index = choose(ANOTHERHUMAN, HUMAN, ANOTHERHUMAN, HUMAN, CHILD)
+sprite_index = choose(s_girl, HUMAN, ANOTHERHUMAN, HUMAN, CHILD)

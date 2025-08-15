@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"HUMAN",
-    "path":"sprites/HUMAN/HUMAN.yy",
+    "name":"s_guy",
+    "path":"sprites/s_guy/s_guy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

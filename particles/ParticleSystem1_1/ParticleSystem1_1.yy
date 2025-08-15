@@ -1,15 +1,15 @@
 {
   "$GMParticleSystem":"",
   "%Name":"ParticleSystem1_1",
-  "backdropHeight":768,
+  "backdropHeight":540,
   "backdropImageOpacity":0.5,
   "backdropImagePath":"",
-  "backdropWidth":1366,
+  "backdropWidth":960,
   "backdropXOffset":0.0,
   "backdropYOffset":0.0,
   "drawOrder":0,
   "emitters":[
-    {"$GMPSEmitter":"","%Name":"GM_Embers2","additiveBlend":false,"directionIncrease":0.0,"directionMax":348.0,"directionMin":167.0,"directionWiggle":0.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":70,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":4278190080,"GMPresetName":"","gravityDirection":274.0,"gravityForce":0.3,"headPosition":0.0,"lifetimeMax":100.0,"lifetimeMin":25.0,"linkedEmitter":null,"locked":false,"midColour":4278190258,"mode":1,"name":"GM_Embers2","orientationIncrease":0.0,"orientationMax":270.0,"orientationMin":343.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":64.0,"regionW":64.0,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.1,"scaleY":1.0,"shape":1,"sizeIncrease":0.005,"sizeMax":0.3,"sizeMin":0.0,"sizeWiggle":0.0,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":0,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":-0.1,"speedMax":6.0,"speedMin":1.0,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":{"name":"spr_bloodsplatter","path":"sprites/spr_bloodsplatter/spr_bloodsplatter.yy",},"spriteRandom":true,"spriteStretch":true,"startColour":4278190335,"texture":-1,},
+    {"$GMPSEmitter":"","%Name":"GM_Embers2","additiveBlend":false,"directionIncrease":0.0,"directionMax":348.0,"directionMin":167.0,"directionWiggle":0.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":70,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":4278190080,"GMPresetName":"","gravityDirection":274.0,"gravityForce":0.3,"headPosition":0.0,"lifetimeMax":100.0,"lifetimeMin":25.0,"linkedEmitter":null,"locked":false,"midColour":4278190258,"mode":1,"name":"GM_Embers2","orientationIncrease":0.0,"orientationMax":270.0,"orientationMin":343.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":64.0,"regionW":64.0,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.1,"scaleY":1.0,"shape":1,"sizeIncrease":0.005,"sizeMax":0.3,"sizeMin":0.0,"sizeWiggle":0.0,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":0,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":-0.1,"speedMax":6.0,"speedMin":1.0,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":{"name":"s_bloodsplatter","path":"sprites/s_bloodsplatter/s_bloodsplatter.yy",},"spriteRandom":true,"spriteStretch":true,"startColour":4278190335,"texture":-1,},
   ],
   "name":"ParticleSystem1_1",
   "parent":{

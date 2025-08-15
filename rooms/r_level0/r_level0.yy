@@ -1,17 +1,16 @@
 {
   "$GMRoom":"v1",
-  "%Name":"STREETS",
-  "creationCodeFile":"rooms/STREETS/RoomCreationCode.gml",
+  "%Name":"r_level0",
+  "creationCodeFile":"rooms/r_level0/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_10880B0B","path":"rooms/STREETS/STREETS.yy",},
-    {"name":"inst_7DCB5CB3","path":"rooms/STREETS/STREETS.yy",},
-    {"name":"inst_4833E602","path":"rooms/STREETS/STREETS.yy",},
-    {"name":"inst_5D787FA5","path":"rooms/STREETS/STREETS.yy",},
-    {"name":"inst_5150F6FB","path":"rooms/STREETS/STREETS.yy",},
-    {"name":"inst_400364A","path":"rooms/STREETS/STREETS.yy",},
+    {"name":"inst_10880B0B","path":"rooms/r_level0/r_level0.yy",},
+    {"name":"inst_7DCB5CB3","path":"rooms/r_level0/r_level0.yy",},
+    {"name":"inst_4833E602","path":"rooms/r_level0/r_level0.yy",},
+    {"name":"inst_5D787FA5","path":"rooms/r_level0/r_level0.yy",},
+    {"name":"inst_400364A","path":"rooms/r_level0/r_level0.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -25,7 +24,6 @@
         {"$GMRInstance":"v2","%Name":"inst_4833E602","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4833E602","objectId":{"name":"obj_personSPAWN","path":"objects/obj_personSPAWN/obj_personSPAWN.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-192.0,"y":768.0,},
         {"$GMRInstance":"v2","%Name":"inst_10880B0B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10880B0B","objectId":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":224.0,},
         {"$GMRInstance":"v2","%Name":"inst_5D787FA5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5D787FA5","objectId":{"name":"obj_personSPAWN","path":"objects/obj_personSPAWN/obj_personSPAWN.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":1568.0,"y":768.0,},
-        {"$GMRInstance":"v2","%Name":"inst_5150F6FB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5150F6FB","objectId":{"name":"MESSAGE","path":"objects/MESSAGE/MESSAGE.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v2","%Name":"inst_400364A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_400364A","objectId":{"name":"obj_OBJECTIONSPAWN","path":"objects/obj_OBJECTIONSPAWN/obj_OBJECTIONSPAWN.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-192.0,"y":768.0,},
       ],"layers":[],"name":"Instances","properties":[
         {"name":"g_ColourLevels","type":0,"value":"4",},
@@ -44,7 +42,7 @@
         {"name":"g_DistortTexture","type":2,"value":"_filter_heathaze_noise_sprite",},
       ],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"SPAWN","path":"sprites/SPAWN/SPAWN.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":true,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"STREETS",
+  "name":"r_level0",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
@@ -60,10 +58,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":540,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":960,
   },
   "sequenceId":null,
   "views":[

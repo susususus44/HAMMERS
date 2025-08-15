@@ -1,15 +1,15 @@
 {
   "$GMParticleSystem":"",
   "%Name":"ParticleSystem1",
-  "backdropHeight":768,
+  "backdropHeight":540,
   "backdropImageOpacity":0.5,
   "backdropImagePath":"",
-  "backdropWidth":1366,
+  "backdropWidth":960,
   "backdropXOffset":0.0,
   "backdropYOffset":0.0,
   "drawOrder":0,
   "emitters":[
-    {"$GMPSEmitter":"","%Name":"GM_Embers2","additiveBlend":true,"directionIncrease":0.0,"directionMax":120.0,"directionMin":60.0,"directionWiggle":0.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":30,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":4278190080,"GMPresetName":"","gravityDirection":89.0,"gravityForce":-0.1,"headPosition":0.0,"lifetimeMax":100.0,"lifetimeMin":20.0,"linkedEmitter":null,"locked":false,"midColour":4278190258,"mode":1,"name":"GM_Embers2","orientationIncrease":0.0,"orientationMax":270.0,"orientationMin":90.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":64.0,"regionW":64.0,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.5,"scaleY":0.5,"shape":1,"sizeIncrease":-0.002000004,"sizeMax":0.1,"sizeMin":0.2,"sizeWiggle":0.1,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":0,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.25,"speedMin":0.5,"speedWiggle":1.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":4287102463,"texture":12,},
+    {"$GMPSEmitter":"","%Name":"GM_Embers2","additiveBlend":true,"directionIncrease":0.0,"directionMax":120.0,"directionMin":60.0,"directionWiggle":0.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":30,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":4278190080,"GMPresetName":"","gravityDirection":89.0,"gravityForce":-0.1,"headPosition":0.0,"lifetimeMax":100.0,"lifetimeMin":20.0,"linkedEmitter":null,"locked":false,"midColour":4278190258,"mode":1,"name":"GM_Embers2","orientationIncrease":0.0,"orientationMax":270.0,"orientationMin":90.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":8.696045,"regionW":69.26697,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.5,"scaleY":0.5,"shape":0,"sizeIncrease":-0.002000004,"sizeMax":0.1,"sizeMin":0.2,"sizeWiggle":0.1,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":0,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.25,"speedMin":0.5,"speedWiggle":1.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":4287102463,"texture":12,},
   ],
   "name":"ParticleSystem1",
   "parent":{
