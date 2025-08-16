@@ -2,7 +2,7 @@ audio_play_sound(mu_windyoutintheseclouds,1,true)
 fadeout = 1
 curron=0
 lettershowuptime=2
-text=[["",200], ["Vadimos presents,",300], ["\"HAMMERS\"",300]]
+text=[["",200], ["Vadimos presents,",240], ["\"HAMMERS\"",240]]
 lettershown=1
 lettershownabout=string_length(text[curron][0])
 gotomenuat=2

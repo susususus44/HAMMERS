@@ -1,6 +1,7 @@
 //tonexttext
 if(gotomenuat==curron) {
-    
+    instance_create_depth(x,y,depth,obj_mainmenu)
+    instance_destroy()
     return;
 }
 curron++
