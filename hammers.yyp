@@ -48,7 +48,6 @@
     {"id":{"name":"obj_cam","path":"objects/obj_cam/obj_cam.yy",},},
     {"id":{"name":"obj_fade","path":"objects/obj_fade/obj_fade.yy",},},
     {"id":{"name":"obj_hitbox","path":"objects/obj_hitbox/obj_hitbox.yy",},},
-    {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},},
     {"id":{"name":"obj_OBJECTION","path":"objects/obj_OBJECTION/obj_OBJECTION.yy",},},
     {"id":{"name":"obj_OBJECTIONSPAWN","path":"objects/obj_OBJECTIONSPAWN/obj_OBJECTIONSPAWN.yy",},},

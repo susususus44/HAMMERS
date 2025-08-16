@@ -1,4 +1,8 @@
 //tonexttext
+if(gotomenuat==curron) {
+    
+    return;
+}
 curron++
 lettershowuptime++
 lettershown=1

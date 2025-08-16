@@ -26,7 +26,6 @@
     {"name":"obj_cam","order":2,"path":"objects/obj_cam/obj_cam.yy",},
     {"name":"obj_fade","order":13,"path":"objects/obj_fade/obj_fade.yy",},
     {"name":"obj_hitbox","order":5,"path":"objects/obj_hitbox/obj_hitbox.yy",},
-    {"name":"obj_menu","order":7,"path":"objects/obj_menu/obj_menu.yy",},
     {"name":"obj_OBJECTION","order":10,"path":"objects/obj_OBJECTION/obj_OBJECTION.yy",},
     {"name":"obj_OBJECTIONSPAWN","order":9,"path":"objects/obj_OBJECTIONSPAWN/obj_OBJECTIONSPAWN.yy",},
     {"name":"obj_person","order":3,"path":"objects/obj_person/obj_person.yy",},
