@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mu_windyoutintheseclouds.wav",
   "type":0,
-  "volume":0.25,
+  "volume":0.2,
 }

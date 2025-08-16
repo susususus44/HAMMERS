@@ -81,6 +81,7 @@
     {"id":{"name":"s_child","path":"sprites/s_child/s_child.yy",},},
     {"id":{"name":"s_girl","path":"sprites/s_girl/s_girl.yy",},},
     {"id":{"name":"s_guy","path":"sprites/s_guy/s_guy.yy",},},
+    {"id":{"name":"s_hammerslogo","path":"sprites/s_hammerslogo/s_hammerslogo.yy",},},
     {"id":{"name":"SPAWN","path":"sprites/SPAWN/SPAWN.yy",},},
     {"id":{"name":"Vadimos","path":"sprites/Vadimos/Vadimos.yy",},},
   ],

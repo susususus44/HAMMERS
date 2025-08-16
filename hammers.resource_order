@@ -52,6 +52,7 @@
     {"name":"s_bloodsplatter","order":11,"path":"sprites/s_bloodsplatter/s_bloodsplatter.yy",},
     {"name":"s_child","order":8,"path":"sprites/s_child/s_child.yy",},
     {"name":"s_girl","order":7,"path":"sprites/s_girl/s_girl.yy",},
+    {"name":"s_hammerslogo","order":13,"path":"sprites/s_hammerslogo/s_hammerslogo.yy",},
     {"name":"SPAWN","order":2,"path":"sprites/SPAWN/SPAWN.yy",},
     {"name":"Vadimos","order":9,"path":"sprites/Vadimos/Vadimos.yy",},
   ],
