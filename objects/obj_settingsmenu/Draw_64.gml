@@ -1,7 +1,7 @@
 //text
 draw_set_font(f_smash_large)
 draw_set_alpha(fade)
-draw_sprite(s_hammerslogo,0,0,0)
+draw_sprite(s_settingslogo,0,100,0)
 if(fade<1)
     fade+=0.01
 draw_set_color(c_white)

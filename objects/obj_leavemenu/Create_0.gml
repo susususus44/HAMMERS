@@ -5,15 +5,13 @@ lettershown=1
 lettershownabout=0
 fade=0
 menu = array_create(0)
+leavetext = "Are you sure you want to leave?"
 delay=0
-scr_addoption("New game", function() {
-    
+scr_addoption("Yes", function() {
+    game_end()
 })
-scr_addoption("Settings", function() {
-    scr_switchmenu(obj_settingsmenu)
-})
-scr_addoption("Exit", function() {
-    scr_switchmenu(obj_leavemenu)
+scr_addoption("No", function() {
+    scr_switchmenu(obj_mainmenu)
 })
 offset = 8
 offsetstr = string_height("ABCabcpg")
