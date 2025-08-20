@@ -6,8 +6,11 @@ lettershownabout=0
 fade=0
 menu = array_create(0)
 delay=0
+playing = false
+playinglettershown = 1
 scr_addoption("New game", function() {
-    
+    playing = true
+    alarm[1]=1
 })
 scr_addoption("Settings", function() {
     scr_switchmenu(obj_settingsmenu)

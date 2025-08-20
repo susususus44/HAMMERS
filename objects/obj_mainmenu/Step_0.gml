@@ -2,7 +2,7 @@ if (delay>0) {
     delay--
     return;
 }
-if (mouse_check_button_pressed(mb_left)) {
+if (mouse_check_button_pressed(mb_left) &&!playing) {
     var _func = menu[selected].func
     _func()
-}
+} 
