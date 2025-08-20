@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_OBJECTIONSPAWN",
+  "%Name":"obj_policeSPAWN",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_OBJECTIONSPAWN",
+  "name":"obj_policeSPAWN",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Policeman",
-    "path":"sprites/Policeman/Policeman.yy",
+    "name":"s_police",
+    "path":"sprites/s_police/s_police.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,10 +1,10 @@
 if (state == 0) {
-	image_yscale -= 0.1
-	if (image_yscale <= 0.6)
+	image_yscale -= 0.01
+	if (image_yscale <= 0.8)
 		state = 1
 }
 else {
-	image_yscale += 0.1
+	image_yscale += 0.01
 	if (image_yscale >= 1)
 		state = 0
 }

@@ -14,7 +14,6 @@ if (state == 0) {
 		wait = 50
 		mosx = display_mouse_get_x()
 		mosy = display_mouse_get_y()
-		obj_cam.shake = 15
 		audio_play_sound(HIT, 1, false)
 	}
 	}
